@@ -1,0 +1,8 @@
+{
+    "source": "大神",
+    "list": [
+        { "name": "张三", "age": 25, "sex": "妖怪" },
+        { "name": "bob", "age": 15, "sex": "陌陌" },
+        { "name": "toms", "age": 34, "sex": "牛奶" }
+    ]
+}
